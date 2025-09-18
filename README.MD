@@ -78,4 +78,4 @@ O site inclui uma página inicial com apresentação dos serviços, destacando r
 Health-IA é um projeto que aplica inteligência artificial para melhorar a precisão dos diagnósticos médicos e personalizar tratamentos, beneficiando hospitais, clínicas e pacientes. A identidade visual é moderna, com tons de rosa, rosa claro e branco, transmitindo inovação e cuidado com a saúde.
 O site apresenta uma página inicial que destaca as soluções oferecidas, como diagnóstico assistido por IA, personalização de tratamentos, monitoramento remoto e análise preditiva. Também mostra os benefícios para os usuários, casos de sucesso e uma chamada para ação para solicitar demonstrações. Há uma página de contato com formulário específico e informações para comunicação, uma página “Trabalhe Conosco” com vagas para cientistas de dados e engenheiros de software, e uma tela de login para a intranet.
 
-PDF: 
+PDF: [Sites](Sites.pdf)
